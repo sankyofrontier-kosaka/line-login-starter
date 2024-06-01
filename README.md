@@ -1,3 +1,5 @@
+test
+
 # LINE Login Starter Application
 [![Build Status](https://travis-ci.org/line/line-login-starter.svg?branch=master)](https://travis-ci.org/line/line-login-starter)
 
